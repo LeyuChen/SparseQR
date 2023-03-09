@@ -5,7 +5,7 @@ Chen, Le-Yu and Lee, Sokbae (2023), "Sparse Quantile Regression".
 
 The paper has been accepted for publication at Journal of Econometrics. The latest working paper version of this work can be found in this repository.
 
-To replicate the simulation and empirical results of the paper, put all program and data files in the same work directory. The Matlab version of the Gurobi solver has to be installed for implementing the various quantile regression estimators studied in this paper. The Gurobi solver is freely available for academic purposes. You can download it via:
+To replicate the simulation and empirical results of the paper, put all program and data files in the same working directory. The Matlab version of the Gurobi solver has to be installed for implementing the various quantile regression estimators studied in this paper. The Gurobi solver is freely available for academic purposes. You can download it via:
 
 https://www.gurobi.com/
 
